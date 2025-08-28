@@ -4,3 +4,4 @@ qiskit
 qiskit-aer
 matplotlib
 pydantic
+pylatexenc
